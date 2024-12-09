@@ -1,7 +1,7 @@
 ---
 title: Challenging Myself
 date: 2024-12-09
-categories: machine learning
+categories: machine-learning
 ---
 
 # Lets do this!
