@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Ashi's space"
+title                    : "Ashi Veerman"
 title_separator          : "-"
 name                     : "Ashi Veerman"
-description              : "This site contains information about Ashi Veerman and random things she likes to explore in her blogs"
+description              : "This site contains information about Ashi Veerman and random things she likes to explore."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashi Veerman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/image.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a final year undergraduate student at Indian Institute of Technology (IIT), Delhi from Mathematics and Computing Department"
   location         : "New Delhi"
   email            : "ashiveerman003@gmail.com"
