@@ -106,12 +106,12 @@
 
   img {
     max-width: 110px;
-    border-radius: 0;
+    border-radius: 0 !important; // Ensure this takes precedence
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
-      border-radius: 0;
+      border-radius: 0 !important;
     }
   }
 }
