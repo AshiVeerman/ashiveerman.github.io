@@ -5,7 +5,7 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "CV"
-    url: https://drive.google.com/file/d/1mkHp2dj2wQ-21KsUKLv5aaFs7Al8OFbD/view?usp=sharing
+    url: /assets/cv/cv.pdf
   - title: "Experience"
     url: /experience/
   # - title: "Sample Collections"
